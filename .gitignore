@@ -1,1 +1,5 @@
 Eye-blinking-SVM/
+media/
+.vscode/
+blink_data/
+data/
